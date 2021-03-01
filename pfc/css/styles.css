@@ -1,0 +1,16 @@
+html{
+    padding-left: 33%;
+    padding-top: 5%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+}
+button {
+    display: inline-block;
+}
+#game {
+    display:block;
+}
+img {
+    width: 200px;
+    height: 200px;
+}
